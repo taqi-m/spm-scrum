@@ -6,3 +6,5 @@ Modules:
 - Authentication
 - Task Management
 - Reporting
+
+## Working on: SPM-7 Implement Password Reset
