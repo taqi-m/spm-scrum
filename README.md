@@ -7,5 +7,4 @@ Modules:
 - Task Management
 - Reporting
 
-
-## Working on: SPM-4 Create Login UI
+## Working on: SPM-5 Implement User Registration
